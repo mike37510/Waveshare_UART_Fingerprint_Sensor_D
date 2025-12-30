@@ -182,7 +182,8 @@ Ce code est libre d'utilisation et de modification. La seule exigence est de men
 ## 📚 Ressources
 
 - [Documentation ESP32](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
-- [Waveshare Fingerprint Sensor](https://www.waveshare.com/)
+- [Waveshare Fingerprint Sensor](https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(D))
+- [Documentation Waveshare Fingerprint Sensor] (https://files.waveshare.com/upload/4/45/UART_Fingerprint_Sensor_%28C%29_User_Manual_en.pdf).
 
 ---
 
