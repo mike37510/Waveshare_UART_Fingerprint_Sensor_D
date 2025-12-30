@@ -115,14 +115,11 @@ Envoyez les commandes suivantes via le moniteur série :
 
 ```
 ESP32-Fingerprint-Sensor/
-│
-├── UART_Fingerprint_Sensor_Ar/
-│   ├── UART_Fingerprint_Sensor_Ar.ino  # Fichier principal
-│   ├── finger.h                         # En-tête avec définitions
-│   └── finger.cpp                       # Implémentation des fonctions
-│
-├── README.md                            # Ce fichier
-└── .gitignore                           # Fichiers à ignorer par Git
+├── UART_Fingerprint_Sensor_Ar.ino  # Fichier principal
+├── finger.h                         # En-tête avec définitions
+├── finger.cpp                       # Implémentation des fonctions
+└── README.md                        # Ce fichier
+
 ```
 
 ## ⚙️ Personnalisation
