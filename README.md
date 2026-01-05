@@ -2,6 +2,10 @@
 
 Projet Arduino/ESP32 pour contrôler un capteur d'empreinte digitale UART (Waveshare) via une **interface web embarquée** avec connexion WiFi. Utilise l'UART matériel Serial2 de l'ESP32.
 
+![](https://github.com/mike37510/Waveshare_UART_Fingerprint_Sensor_D/blob/main/f6d5c368-fd42-4468-8762-b99dd71c8487.jpg)
+
+![](https://github.com/mike37510/Waveshare_UART_Fingerprint_Sensor_D/blob/main/e79a03d1-be4a-4a14-8436-a95234f89fae.jpg)
+
 ## 📋 Description
 
 Ce projet est une adaptation du code original Waveshare pour le capteur d'empreinte digitale capacitif UART, optimisé spécifiquement pour l'ESP32 avec une **interface web moderne**. Il utilise l'UART matériel Serial2 et un serveur web embarqué pour contrôler toutes les fonctionnalités du capteur via un navigateur.
